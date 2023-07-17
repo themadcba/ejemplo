@@ -1,1 +1,1 @@
-cambio de curso
+este es un ejemplo como clonar un archivo desde git a mi escritorio
