@@ -1,2 +1,1 @@
-# ejemplo
-ejemplo de curso 
+cambio de curso
